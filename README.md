@@ -126,10 +126,10 @@
             
             <div class="contact-info">
                 <h2>Contact</h2>
-                <p>📧 your.email@example.com</p>
-                <p>📱 (123) 456-7890</p>
-                <p>📍 City, Country</p>
-                <p>🔗 linkedin.com/in/yourprofile</p>
+                <p>📧 jenniferfu2006@gmail.com</p>
+                <p>📱 (+61) 431243728</p>
+                <p>📍 Melbourne, Australia</p>
+                <p>🔗 linkedin.com/in/yile-fu-8a217035a/</p>
             </div>
 
             <div class="skills-section">
@@ -155,12 +155,12 @@
 
         <!-- Main Content -->
         <div class="main-content">
-            <h1>Your Name</h1>
-            <p style="color: #666; margin-bottom: 20px;">Software Developer</p>
+            <h1>Yile Fu</h1>
+            <p style="color: #666; margin-bottom: 20px;">University Student</p>
 
             <section>
                 <h2>Professional Summary</h2>
-                <p>Detail-oriented software developer with X years of experience in full-stack development. Passionate about creating efficient, scalable solutions and learning new technologies.</p>
+                <p>Undergraduate student in a bachelor's degree majoring in Math and Statistics. Passionate about creating efficient, scalable solutions and learning new technologies.</p>
             </section>
 
             <section>
@@ -190,9 +190,9 @@
             <section>
                 <h2>Education</h2>
                 <div class="education-item">
-                    <h3>Bachelor of Science in Computer Science</h3>
-                    <p class="period">University Name | 2014 - 2018</p>
-                    <p>Major: Computer Science</p>
+                    <h3>Bachelor of Science in Math and Stats</h3>
+                    <p class="period">University Of Melbourne | 2025 - 2027</p>
+                    <p>Major: Math and Statistics</p>
                     <p>GPA: 3.8/4.0</p>
                 </div>
             </section>
