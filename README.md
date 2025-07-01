@@ -135,11 +135,8 @@
             <div class="skills-section">
                 <h2>Skills</h2>
                 <ul class="skills-list">
-                    <li>HTML/CSS</li>
-                    <li>JavaScript</li>
+                    <li>HTML</li>
                     <li>Python</li>
-                    <li>React</li>
-                    <li>Node.js</li>
                     <li>Git</li>
                 </ul>
             </div>
@@ -148,7 +145,7 @@
                 <h2>Languages</h2>
                 <ul class="skills-list">
                     <li>English (Native)</li>
-                    <li>Spanish (Fluent)</li>
+                    <li>Mandarin (Fluent)</li>
                 </ul>
             </div>
         </div>
